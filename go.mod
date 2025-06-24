@@ -45,7 +45,7 @@ require (
 	golang.org/x/crypto v0.0.0-20190130090550-b01c7a725664 // indirect
 	golang.org/x/net v0.0.0-20190125091013-d26f9f9a57f3
 	golang.org/x/oauth2 v0.0.0-20190130055435-99b60b757ec1 // indirect
-	golang.org/x/sys v0.0.0-20190130150945-aca44879d564 // indirect
+	golang.org/x/sys v0.1.0 // indirect
 	gopkg.in/yaml.v2 v2.2.2 // indirect
 	k8s.io/api v0.0.0-20180308224125-73d903622b73
 	k8s.io/apiextensions-apiserver v0.0.0-20180327033742-750feebe2038
